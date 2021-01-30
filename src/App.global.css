@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body {
+  overflow: hidden;
+}
+
+#webview {
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+}
